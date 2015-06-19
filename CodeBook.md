@@ -1,3 +1,6 @@
+# Total 88 variables
+# Starting from "subject", "activity", and so on...
+
  [1] "subject"                                            "activity"                                          
  [3] "TimeBodyAccelerometer-mean()-X"                     "TimeBodyAccelerometer-mean()-Y"                    
  [5] "TimeBodyAccelerometer-mean()-Z"                     "TimeBodyAccelerometer-std()-X"                     
