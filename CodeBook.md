@@ -1,5 +1,6 @@
-# Total 88 variables
-# Starting from "subject", "activity", and so on...
+### Total 88 variables
+#### Starting from "subject", "activity", and so on...
+#### '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions. mean(): Mean value. std(): Standard deviation
 
  [1] "subject"                                            "activity"                                          
  [3] "TimeBodyAccelerometer-mean()-X"                     "TimeBodyAccelerometer-mean()-Y"                    
